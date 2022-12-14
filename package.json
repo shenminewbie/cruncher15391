@@ -1,0 +1,14 @@
+{
+  "name": "cruncher15391",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "forex trading ⭐ how forex trading ?",
+  "keywords": [
+    "forex trading ⭐ how forex trading ?"
+  ],
+  "repository": "https://github.com/shenminewbie/cruncher15391",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
